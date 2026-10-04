@@ -1,0 +1,4 @@
+Live Project Link (GitHub): [PASTE YOUR GITHUB URL HERE]
+How to run locally: 
+1. Install dependencies: pip install pandas numpy scikit-learn ortools streamlit streamlit-folium fpdf2
+2. Run the app: python -m streamlit run app.py
